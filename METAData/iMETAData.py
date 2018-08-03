@@ -653,5 +653,3 @@ if __name__ == "__main__":
     
     sql.close()
     view =""
-
-    
